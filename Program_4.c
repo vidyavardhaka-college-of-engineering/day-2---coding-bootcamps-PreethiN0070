@@ -3,7 +3,7 @@
 //L1 = 10
 //L2 = 20
 
-#include<stdio.h>;
+#include<stdio.h>
 int main()
 {
 //Write your code below this line
